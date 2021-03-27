@@ -33,7 +33,7 @@ education:
     year: 2020
   - course: BS in Chemical Engineering
     institution: Nanjing Tech University
-    year: 2017
+    year: present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
