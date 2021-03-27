@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Chemical Engineering
     institution: University of Massachusetts Amherst
-    year: 2021
+    year: present
   - course: MS in Chemical Engineering
     institution: Nanjing Tech University
     year: 2020
   - course: BS in Chemical Engineering
     institution: Nanjing Tech University
-    year: present
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jiacheng earned his Bachelor's and Master's degree in Chemical Engineering from Nanjing Tech University. He joined Professor Henson's group in the fall of 2020. He enjoyed mathematical modeling and programming with applications to chemical engineering. He is currently working on metabolic modeling of microbial communities within natural hosts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
