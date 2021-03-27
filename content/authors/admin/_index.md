@@ -70,6 +70,7 @@ email: ""
 highlight_name: false
 ---
 
+
 Jiacheng earned his Bachelor's and Master's degree in Chemical Engineering from Nanjing Tech University. He joined Professor Henson's group in the fall of 2020. He enjoyed mathematical modeling and programming with applications to chemical engineering. He is currently working on metabolic modeling of microbial communities within natural hosts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
