@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '/#jiachengwang@umass.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -69,7 +69,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
 
 Jiacheng earned his Bachelor's and Master's degree in Chemical Engineering from Nanjing Tech University. He joined Professor Henson's group in the fall of 2020. He enjoyed mathematical modeling and programming with applications to chemical engineering. He is currently working on metabolic modeling of microbial communities within natural hosts.
 
