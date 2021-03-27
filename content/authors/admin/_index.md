@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Chemical Engineering
     institution: University of Massachusetts Amherst
-    year: 2012
+    year: 2021
   - course: MS in Chemical Engineering
     institution: Nanjing Tech University
     year: 2020
